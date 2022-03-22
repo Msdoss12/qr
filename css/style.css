@@ -41,6 +41,7 @@ h1{
     margin: 24px;
 }
 .text {
+    text-align: center;
 }
 .text__title {
     font-weight: 700;
