@@ -13,6 +13,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #D5E1EF;
 }
 h1{
     font-size: 0;
